@@ -1,0 +1,4 @@
+sitemap: /sitemap.xml
+user-agent: *
+Disallow: /notes
+Disallow: /scripts
